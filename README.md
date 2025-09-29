@@ -3,8 +3,9 @@
 <h3 align="center">Frontend Developer • UI/UX Enthusiast • Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=I+craft+beautiful+and+scalable+frontend+apps;Frontend+Dashboards+%7C+Banking+Apps+%7C+E-Commerce;React+%7C+Next.js+%7C+TypeScript+%7C+TailwindCSS" />
 </p>
+
 
 ---
 
